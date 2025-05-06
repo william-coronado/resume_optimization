@@ -1,4 +1,4 @@
-#OPENAI_API_KEY: 'sk-xxxxxx'
+OPENAI_API_KEY: 'sk-xxxxxx'
 JOB_POS_FOLDER: './users/user1/input'
 OUTPUT_FOLDER: './users/user1/output'
 RESUME_PATH: './users/user1/william-resume.md'
