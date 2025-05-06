@@ -31,6 +31,7 @@ def getPrompt(md_resume, job_description):
 
     Please modify the resume to:
     - Use keywords and phrases from the job description.
+    - Rewrite the Professional Profile to reflect my fit for the role.
     - Adjust the bullet points under each role to emphasize relevant skills and achievements.
     - Make sure my experiences are presented in a way that matches the required qualifications.
     - Maintain clarity, conciseness, and professionalism throughout.

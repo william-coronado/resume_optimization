@@ -1,6 +1,6 @@
-OPENAI_API_KEY: 'sk-xxxxxx'
-JOB_POS_FOLDER: './input/'
-OUTPUT_FOLDER: './output'
-RESUME_PATH: './william-resume.md'
+#OPENAI_API_KEY: 'sk-xxxxxx'
+JOB_POS_FOLDER: './users/user1/input'
+OUTPUT_FOLDER: './users/user1/output'
+RESUME_PATH: './users/user1/william-resume.md'
 LLM_MODEL: 'gpt-4o-mini'
 LLM_temperature: 0.25

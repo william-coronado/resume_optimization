@@ -74,7 +74,7 @@ def main():
         resume = sendLLMRequest(prompt)
 
         # Write optimized resume to file
-        output_file_path = os.path.join(OUTPUT_FOLDER, f'resume-{filename}.md')
+        output_file_path = os.path.join(OUTPUT_FOLDER, f'resume-{filename}.{LLM_MODEL}.md')
         write_to_text_file(output_file_path, resume)
 
     print(">>> END <<<")
