@@ -1,4 +1,4 @@
-json5==0.9.25
-openai==1.56.2
+json5==0.10.0
+openai==1.60.1
 PyYAML==6.0.2
 pytest==8.3.4
